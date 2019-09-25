@@ -1,3 +1,3 @@
 # hello-world
 # starting project
-Fannie here, I a new fisher for git.
+Fannie here, I am a new fisher for git.
